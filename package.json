@@ -1,0 +1,22 @@
+{
+  "name": "decirculo",
+  "version": "0.0.1",
+  "description": "Test decir culo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfernandez/decirculo.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "pinchito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexfernandez/decirculo/issues"
+  },
+  "homepage": "https://github.com/alexfernandez/decirculo#readme"
+}
